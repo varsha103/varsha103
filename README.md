@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pcmsit.com/wp-content/uploads/2022/05/website_Developer.gif)]
+![MasterHead](https://www.pcmsit.com/wp-content/uploads/2022/05/website_Developer.gif)
 <h1 align="center">Hi 👋, I'm Varsha Prajapati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
